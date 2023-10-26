@@ -1,1 +1,1 @@
-modificando el fichero dese github
+modificando el fichero desde repositorio local
