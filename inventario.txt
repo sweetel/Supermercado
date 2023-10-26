@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificando el fichero desde repositorio local
+=======
+modificando el fichero desde remoto
+>>>>>>> dcd06a4a281eb11e9c29626029c7f2624a421b71
